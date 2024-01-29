@@ -44,7 +44,7 @@ Encontra-se disponibilizados os slides das aulas teóricas, os guiões das aulas
 
 ## Projeto final
 
-__Realizado em conjunto com:__
+Realizado em conjunto com:
 - [Diogo Falcão](https://github.com/falcaodiogo)
 - [João Luís](https://github.com/jnluis)
 
