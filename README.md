@@ -55,4 +55,4 @@ Realizado em conjunto com:
 - [Diogo Falcão](https://github.com/falcaodiogo)
 - [João Luís](https://github.com/jnluis)
 
-__Nota final__: 13,1
+__Nota__: 13,1
