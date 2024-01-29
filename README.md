@@ -40,7 +40,14 @@
 
 ## Informações 
 
-Encontra-se disponibilizados os slides das aulas teóricas, os guiões das aulas práticas e o código implementado para cada guião, o projeto final da cadeira e alguns enunciados de exames teóricos de anos anteriores com algumas resoluções.
+Encontra-se disponibilizados os slides das aulas teóricas, os guiões das aulas práticas e o código implementado para cada guião, testes práticos individuais,o projeto final da cadeira e alguns enunciados de exames teóricos de anos anteriores com algumas resoluções.
+
+## Testes Práticos 
+
+| Teste Prático Individual | Nota |
+| :---: | :---: |
+| TPI 1 | 14,8 |
+| TPI 2 | 15,9 |
 
 ## Projeto final
 
